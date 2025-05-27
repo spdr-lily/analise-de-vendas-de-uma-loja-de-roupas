@@ -6,7 +6,7 @@ Este relatório detalha o projeto de análise de dados de vendas de uma loja de 
 
 #### **2\. Metodologia**
 
-O projeto foi desenvolvido utilizando a linguagem Python e as bibliotecas Pandas, NumPy e Matplotlib. As etapas principais da metodologia incluem:
+O projeto foi desenvolvido utilizando a Python e as bibliotecas Pandas, NumPy e Matplotlib. As etapas incluem:
 
 1. **Importação das Bibliotecas:** As bibliotecas Pandas, NumPy e Matplotlib foram importadas para manipulação e análise dos dados, além da criação de visualizações gráficas.  
 2. **Criação do DataFrame:** Um DataFrame foi gerado com 1000 linhas, contendo informações sobre o ID do produto, nome do produto, quantidade vendida, preço unitário e data da venda. Os nomes dos produtos foram definidos em uma lista e selecionados aleatoriamente para preencher a coluna `Nome Produto`.  
