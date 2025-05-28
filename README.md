@@ -2,7 +2,7 @@
 
 #### **1\. Introdução**
 
-Este relatório detalha o projeto de análise de dados de vendas de uma loja de roupas. O objetivo principal é analisar os dados de vendas para gerar informações relevantes sobre a quantidade vendida, o valor total arrecadado e o preço médio dos produtos vendidos.
+Este projeto visa realizar uma análise de dados de vendas de uma loja de roupas. O objetivo é analisar os dados de vendas para gerar informações relevantes sobre a quantidade vendida, o valor total arrecadado e o preço médio dos produtos vendidos.
 
 #### **2\. Metodologia**
 
